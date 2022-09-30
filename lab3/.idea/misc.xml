@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/drawable/circle_drawable_green.xml" value="0.3225" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/drawable/circle_drawable_orange.xml" value="0.3225" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/drawable/circle_drawable_red.xml" value="0.3225" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/layout/activity_main.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/layout/fragment_add_task.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/layout/fragment_delete_dialog.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/layout/fragment_display_task.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/layout/fragment_item.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/patry/Desktop/studia/lab3/app/src/main/res/layout/fragment_item_list.xml" value="0.39010416666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

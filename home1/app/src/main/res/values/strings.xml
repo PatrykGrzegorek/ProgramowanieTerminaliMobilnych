@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">home1</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear_msg" />
+    <string name="result" />
+    <string name="numberFormatSettings">Number format:</string>
+    <string name="integersSettings">Integers</string>
+    <string name="floatSettings">Float</string>
+    <string name="applySettings">Apply</string>
+    <string name="numberFormatKey" />
+    <string name="clean">CLEAN</string>
+</resources>

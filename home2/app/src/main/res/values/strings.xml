@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">home2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_contact_name">default name</string>
+    <string name="default_contact_surname">default surname</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="number">number</string>
+    <string name="todo">TODO</string>
+</resources>
